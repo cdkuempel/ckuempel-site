@@ -1,2 +1,2 @@
-# joelnitta-site
-Personal website of Joel Nitta
+# ckuempel-site
+Personal website of Caitlin D. Kuempel
